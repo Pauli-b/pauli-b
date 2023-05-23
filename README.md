@@ -16,4 +16,5 @@
 </div>
     
  ##
- ![Snake animation](https://github.com/pauli-b/pauli-b/blob/github-contribution-grid-snake.svg)
+    
+ ![Snake animation](https://github.com/Pauli-b/Pauli-b/blob/github-contribution-grid-snake.svg)
