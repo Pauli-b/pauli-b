@@ -9,4 +9,3 @@
     
  ##
     
- ![Snake animation](https://github.com/pauli-b/pauli-b/blob/output/github-contribution-grid-snake.svg)
