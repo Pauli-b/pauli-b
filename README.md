@@ -1,4 +1,4 @@
-### Oii! Sou a Pauliany Bentes
+### Oii
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
